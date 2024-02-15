@@ -3,7 +3,7 @@
 {
 	"name": "Shiny",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "rocker/shiny"
+	"image": "ghcr.io/cmaronga/rshinyghatest:latest"
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
